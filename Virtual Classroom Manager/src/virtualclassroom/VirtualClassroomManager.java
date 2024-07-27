@@ -4,18 +4,18 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class VirtualClassroomManager {
-	
-	/*This class is created to manage all the functionalities of the virtual classroom.
-	 * ------------------------------------------------
-	 * FUNCTIONALITIES:
-	 * ------------------------------------------------
-	 * 1.Adding new classrooms
-	 * 2.Removing existing classrooms
-	 * 3.Adding new student
-	 * 4.Scheduling assignments for each classroom
-	 * 5.Submission of assignments by students
-	 * 6.Displaying list of classrooms
-	 * 7.Displaying list of students belonging to the same class*/
+    
+    /*This class is created to manage all the functionalities of the virtual classroom.
+     * ------------------------------------------------
+     * FUNCTIONALITIES:
+     * ------------------------------------------------
+     * 1. Adding new classrooms
+     * 2. Removing existing classrooms
+     * 3. Adding new student
+     * 4. Scheduling assignments for each classroom
+     * 5. Submission of assignments by students
+     * 6. Displaying list of classrooms
+     * 7. Displaying list of students belonging to the same class*/
 
     // Two maps are created
     // map1 to map class name with its respective classroom
@@ -80,7 +80,7 @@ public class VirtualClassroomManager {
         }
     }
 
-    // 5. Submission of Assignments by students
+    // 5. Submission of assignments by students
     public void submitAssignments(String studentID, String className, String assignmentDetails) {
         if (studentClassMap.containsKey(studentID) && studentClassMap.get(studentID).equals(className)) {
             Classroom classroom = classrooms.get(className);
@@ -115,5 +115,10 @@ public class VirtualClassroomManager {
         } else {
             System.out.println("Classroom " + className + " does not exist.");
         }
+    }
+
+    // Getter for classrooms
+    public Map<String, Classroom> getClassrooms() {
+        return classrooms;
     }
 }
