@@ -1,6 +1,6 @@
 # Virtual Classroom Manager
 
-Welcome to the Virtual Classroom Manager! This project is a simple console-based application to manage virtual classrooms, students, and assignments. It provides functionalities like adding classrooms, enrolling students, scheduling and submitting assignments, and listing classrooms and students.
+Welcome to the Virtual Classroom Manager! This project is a console-based application to manage virtual classrooms, students, and assignments. It provides functionalities like adding classrooms, enrolling students, scheduling and submitting assignments, and listing classrooms and students.
 
 ## Features
 
