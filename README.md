@@ -22,5 +22,5 @@ Ensure you have the following installed on your machine:
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (version 11 or later)
 - A Java IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
-### Project Structure
+
 
