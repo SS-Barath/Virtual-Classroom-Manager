@@ -1,0 +1,304 @@
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 1
+--------------------------------
+Enter the classroom name: CSE-A
+Classroom CSE-A has been created.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 1
+--------------------------------
+Enter the classroom name: CSE-B
+Classroom CSE-B has been created.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 2
+--------------------------------
+Enter Student ID: 2148
+Enter classroom name: CSE-A
+Student 2148 has been enrolled in CSE-A.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 2
+--------------------------------
+Enter Student ID: 2152
+Enter classroom name: CSE-A
+Student 2152 has been enrolled in CSE-A.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 2
+--------------------------------
+Enter Student ID: 2158
+Enter classroom name: CSE-B
+Student 2158 has been enrolled in CSE-B.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 2
+--------------------------------
+Enter Student ID: 2186
+Enter classroom name: CSE-B
+Student 2186 has been enrolled in CSE-B.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 3
+--------------------------------
+Enter classroom name: CSE-A
+Enter assignment details: OS
+Assignment for CSE-A has been scheduled.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 3
+--------------------------------
+Enter classroom name: CSE-A
+Enter assignment details: COA
+Assignment for CSE-A has been scheduled.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 3
+--------------------------------
+Enter classroom name: CSE-B
+Enter assignment details: OS
+Assignment for CSE-B has been scheduled.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 3
+--------------------------------
+Enter classroom name: CSE-B
+Enter assignment details: COA
+Assignment for CSE-B has been scheduled.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 5
+--------------------------------
+List of Classrooms:
+------------------------------
+CSE-A
+CSE-B
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 6
+--------------------------------
+Enter Classroom Name: CSE-A
+Students in CSE-A:
+-----------------------------------------
+2148
+2152
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 6
+--------------------------------
+Enter Classroom Name: CSE-B
+Students in CSE-B:
+-----------------------------------------
+2158
+2186
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 7
+--------------------------------
+Enter the Classroom Name: CSE-B
+Classroom CSE-B has been removed.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 5
+--------------------------------
+List of Classrooms:
+------------------------------
+CSE-A
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 6
+--------------------------------
+Enter Classroom Name: CSE-B
+Classroom CSE-B does not exist.
+
+*********************************
+Virtual Classroom Manager Menu:
+*********************************
+1. Add Classroom
+2. Add Student
+3. Schedule Assignment
+4. Submit Assignment
+5. List Classrooms
+6. List Students in Classroom
+7. Remove Classroom
+8. Quit
+--------------------------------
+Enter your choice: 8
+--------------------------------
+Exiting Virtual Classroom Manager...
