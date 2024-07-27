@@ -3,7 +3,7 @@ package virtualclassroom;
 import java.util.ArrayList;
 import java.util.List;
 
-class Classroom {
+public class Classroom {
     private String name;
     private List<String> students;
     private List<String> assignments;
